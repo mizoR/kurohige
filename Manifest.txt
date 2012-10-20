@@ -1,0 +1,11 @@
+History.txt
+Manifest.txt
+PostInstall.txt
+README.rdoc
+Rakefile
+lib/kurohige.rb
+script/console
+script/destroy
+script/generate
+spec/kurohige_spec.rb
+spec/spec_helper.rb
