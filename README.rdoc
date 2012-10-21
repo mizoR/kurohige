@@ -1,6 +1,6 @@
 = kurohige
 
-* http://github.com/#{github_username}/#{project_name}
+* http://github.com/mizoR/kurohige
 
 == DESCRIPTION:
 
@@ -20,7 +20,7 @@ FIX (describe your package)
 
 == INSTALL:
 
-* FIX (sudo gem install, anything else)
+    gem install kurohige
 
 == LICENSE:
 
