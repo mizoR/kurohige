@@ -1,6 +1,4 @@
-# Kurohige
-
-TODO: Write a gem description
+# Kurohige [![Build Status](https://secure.travis-ci.org/mizoR/kurohige.png)](http://travis-ci.org/mizoR/kurohige)
 
 ## Installation
 
